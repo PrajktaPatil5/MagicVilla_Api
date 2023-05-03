@@ -70,7 +70,7 @@ namespace MagicVilla_VillaAPI.Migrations
                         {
                             Id = 1,
                             Amenity = "",
-                            CreatedDate = new DateTime(2023, 4, 27, 20, 2, 54, 663, DateTimeKind.Local).AddTicks(5465),
+                            CreatedDate = new DateTime(2023, 4, 28, 13, 9, 36, 770, DateTimeKind.Local).AddTicks(6137),
                             Details = " This is sample villa",
                             ImageUrl = "",
                             Name = "Royal Villa",
@@ -83,7 +83,7 @@ namespace MagicVilla_VillaAPI.Migrations
                         {
                             Id = 2,
                             Amenity = "",
-                            CreatedDate = new DateTime(2023, 4, 27, 20, 2, 54, 663, DateTimeKind.Local).AddTicks(5476),
+                            CreatedDate = new DateTime(2023, 4, 28, 13, 9, 36, 770, DateTimeKind.Local).AddTicks(6154),
                             Details = " This is sample  Pool villa",
                             ImageUrl = "",
                             Name = "Premium Pool Villa",
@@ -96,7 +96,7 @@ namespace MagicVilla_VillaAPI.Migrations
                         {
                             Id = 3,
                             Amenity = "",
-                            CreatedDate = new DateTime(2023, 4, 27, 20, 2, 54, 663, DateTimeKind.Local).AddTicks(5478),
+                            CreatedDate = new DateTime(2023, 4, 28, 13, 9, 36, 770, DateTimeKind.Local).AddTicks(6156),
                             Details = " This is Luxury Pool villa",
                             ImageUrl = "",
                             Name = "Luxury Pool Villa",
